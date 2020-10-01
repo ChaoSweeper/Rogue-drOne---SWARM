@@ -26,6 +26,8 @@
 
 [Team Discord](https://discord.gg/pS7WH8R)
 
-
-### Doucmentation
+---
+### Documentation
 [Project Proposal](https://docs.google.com/document/d/1Qn0AaKkgPxXiBETwMTNJuUk5ZNNM7yqAt_4JTHbLq_M/edit?usp=sharing)
+
+[Google Drive](https://drive.google.com/drive/folders/1en7ZnY1vt9UbizFLqtwsDdOUqmVkj97z?usp=sharing)
