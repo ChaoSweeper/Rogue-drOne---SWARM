@@ -1,6 +1,12 @@
 ## Rogue drOne - SWARM
-### A Capstone Project
-#### by Seth Close & James Cowell
+### Capstone Project
+Seth Close & James Cowell
+
+#### Faculty Support
+Dr. Bojan Cukic
+
+
+Dr Min Shin
 
 ---
 ### Project Goals
@@ -10,12 +16,17 @@
    * Implement the algorithms required to achieve this
 3. Render 3D models from the images
    * Fully rendered 3D model from the images gathered by the drone
-  
-  
+    
 ### Project Scratch Goals
 1. Build multiple drones.
 2. Network the drones to create a swarm.
 3. Drone swarms work together to gather images for rendering
+
+### Project Phases 
+#### Phase 1 - Fall semester of 2020.
+#### Phase 2 - Spring semester of 2021. 
+On the Projects tab, phases will be track as 1.1, 1.2, 1.3 to clearly mark what phase
+of the overall project they fall under,
 
 ---
 ### Communication
