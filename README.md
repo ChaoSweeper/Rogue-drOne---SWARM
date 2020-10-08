@@ -1,8 +1,12 @@
 ## Rogue drOne - SWARM
 ### Capstone Project
-Seth Close & James Cowell
+Seth Close 
 
-#### Faculty Support
+
+James Cowell
+
+---
+### Faculty Support
 Dr. Bojan Cukic
 
 
