@@ -1,0 +1,14 @@
+wget
+numpy==1.18.5
+pandas
+Black
+scikit-learn
+scikit-image
+tensorflow
+SimpleCV
+pytesseract
+Pillow
+TensorFlow
+tf2cv
+matplotlib
+seaborn
