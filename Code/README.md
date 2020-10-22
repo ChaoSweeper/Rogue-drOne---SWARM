@@ -1,10 +1,10 @@
 #### Setup
-   - Create a virtual environment using the built-in virtual environment manager venv.
+   - Create a virtual environment using the Python built-in virtual environment manager ```venv```.
  
-      1. In a terminal, create a new venv in the folder you will be using for this project. Type ``` py -m venv env ``` in the terminal, with ```env``` being the name of your environment; this can be whatever you want. 
+      1. In a terminal window, create a new venv in the folder you will be using for this project. Type ``` py -m venv env ``` in the terminal, with ```env``` being the name of your environment; this can be whatever you want. 
 
 
-      2. Use the ```cd``` command and navigate to the newly created venv. 
+      2. Use the ```cd``` command to navigate to the newly created folder containing the venv. 
       
         
       3.  From with-in the new venv use the following command to activate the venv ```.\env\Scripts\activate```
