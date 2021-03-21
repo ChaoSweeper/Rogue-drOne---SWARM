@@ -5,5 +5,5 @@
    4. Filter through the images rendered from the video feed and compare to the pre-generated model
 
 #### Scripts:
-   ~ vid_img will take in a video and render images from it.
-   ~ model_generator is use to generate the model that will be used later.
+   1. vid_img will take in a video and render images from it.
+   2. model_generator is use to generate the model that will be used later.

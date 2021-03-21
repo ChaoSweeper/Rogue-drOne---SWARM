@@ -1,6 +1,3 @@
-import tensorflow as tf
-
-# save the final model to file
 from tensorflow.keras.datasets import cifar10
 from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.models import Sequential
@@ -11,7 +8,7 @@ from tensorflow.keras.layers import Flatten
 from tensorflow.keras.optimizers import SGD
 
 
-def load_dataset():
+def load_data():
     (trainX, trainY), (testX, testY) = cifar10.load_data()
     trainY = to_categorical(trainY)
     testY = to_categorical(testY)
@@ -95,13 +92,12 @@ def define_model():
     return model
 
 
-def run_test_harness():
-    trainX, trainY, testX, testY = load_dataset()
+def generate_model():
+    trainX, trainY, testX, testY = load_data()
     trainX, testX = prep_pixels(trainX, testX)
     model = define_model()
     model.fit(trainX, trainY, epochs=100, batch_size=64, verbose=0)
     model.save("final_model.h5")
 
 
-if __name__ == "__main__":
-    run_test_harness()
+generate_model()
