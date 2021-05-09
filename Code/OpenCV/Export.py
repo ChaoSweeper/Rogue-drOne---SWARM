@@ -4,7 +4,7 @@ import shutil
 
 
 def get_image():
-    cam = cv.VideoCapture("cars_test1.mp4")
+    cam = cv.VideoCapture("Project_DONTUPLOAD\Good Code\Car Detection Results.mp4")
     cur_frame = 0
     make_dict()
     while True:
